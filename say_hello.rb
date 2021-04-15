@@ -1,6 +1,5 @@
-def say_hello(name)
+def if say_hello(name)
   puts "Hello #{name}!"
-
-def say_hello
+else
   puts "Hello Ruby Programmer!"
 end
